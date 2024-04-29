@@ -7,8 +7,8 @@ Y &= k \int_{360}^{780}S(\lambda)R(\lambda)y(\lambda)dx \\
 Z &= k \int_{360}^{780}S(\lambda)R(\lambda)z(\lambda)dx 
 \end{aligned}
 ```
-ここで、$S(\lambda)$はイルミナントの分光分布の相対強度関数、$R(\lambda)$は分光反射率、$x(\lambda)$、$y(\lambda)$、$x(\lambda)$は等色関数の刺激値である。
-また$k$は透過・反射の場合
+ここで、$`S(\lambda)`$はイルミナントの分光分布の相対強度関数、$`R(\lambda)`$は分光反射率、$`x(\lambda)`$、$`y(\lambda)`$、$`x(\lambda)`$は等色関数の刺激値である。
+また$`k`$は透過・反射の場合
 ````math
 k = \frac{100}{\int_{360}^{780}S(\lambda)y(\lambda)dx}
 ````
